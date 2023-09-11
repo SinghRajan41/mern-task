@@ -1,0 +1,20 @@
+#row-1
+{
+    background-color:rgba(59, 222, 129, 0.8);
+}
+tr:nth-child(even) 
+{
+    background-color:rgb(224, 224, 224);
+}
+th 
+{
+    text-align:left; 
+    font-style:"Times New Roman";
+    color:white;
+    font-weight:bold;
+}
+th , td
+{
+    padding:10px;
+    width:25%;
+}

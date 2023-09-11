@@ -1,0 +1,12 @@
+table 
+{
+    background-color:rgba(4, 177, 171, 0.792);
+    width:65%;
+    border-radius:8px;
+}
+td , th 
+{
+    border-style:solid;
+    border-width:1px;
+    border-radius:6px;
+}
